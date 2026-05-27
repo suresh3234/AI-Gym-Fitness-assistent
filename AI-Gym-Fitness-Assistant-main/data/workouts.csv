@@ -1,0 +1,16 @@
+id,name,level,goal,type,duration_min,calories_burned,equipment
+1,Full Body HIIT,beginner,"lose,maintain",cardio,30,350,none
+2,Strength Training A,intermediate,"gain,maintain",strength,60,300,gym
+3,Yoga Flow,beginner,maintain,flexibility,45,180,mat
+4,Advanced Powerlifting,advanced,gain,strength,90,400,gym
+5,Morning Run 5km,intermediate,"lose,maintain",cardio,30,300,none
+6,Upper Body Pump,intermediate,"gain,maintain",strength,50,280,gym
+7,Core & Abs Circuit,beginner,"lose,maintain",strength,25,200,mat
+8,Cycling Intervals,intermediate,lose,cardio,40,380,bike
+9,Olympic Lifting,advanced,gain,strength,75,350,gym
+10,Pilates Fundamentals,beginner,"maintain,lose",flexibility,40,160,mat
+11,Bodyweight Bootcamp,beginner,"lose,maintain",cardio,35,320,none
+12,Barbell Back Squat,intermediate,"gain,maintain",strength,45,260,gym
+13,Swimming Laps,intermediate,"lose,maintain",cardio,40,400,pool
+14,Stretching Routine,beginner,maintain,flexibility,20,80,mat
+15,Zumba Class,beginner,"lose,maintain",cardio,60,420,none

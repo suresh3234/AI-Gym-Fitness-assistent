@@ -1,0 +1,11 @@
+id,name,type,focus,price_tier,amenities,rating
+1,FitZone Pro,commercial,"strength,cardio",mid,"pool,sauna,classes",4.5
+2,Iron Paradise,powerlifting,strength,low,"heavy equipment,chalk",4.7
+3,Zen Wellness,wellness,"flexibility,cardio",high,"spa,yoga,meditation",4.6
+4,CrossFit Box Alpha,crossfit,"cardio,strength",mid,"coaching,community",4.4
+5,Home Gym Starter Kit,home,"strength,flexibility",none,convenience,4.2
+6,Planet Fitness,commercial,"cardio,strength",low,"tanning,classes",4.0
+7,Gold's Gym,commercial,"strength,cardio,flexibility",mid,"pool,basketball,classes",4.3
+8,Anytime Fitness,commercial,"strength,cardio",mid,"24/7 access,personal training",4.1
+9,UFC Gym,mma,"strength,cardio,mma",mid,"ring,bags,classes",4.4
+10,YMCA,community,"strength,cardio,flexibility,swimming",low,"pool,courts,classes",4.3
