@@ -50,7 +50,7 @@ AI-Gym-Fitness-Assistant/
     └── workouts.csv
 🚀 Quick Start
 1. Clone & create a virtual environment
-git clone https://github.com/Prashant-kamagond/AI-Gym-Fitness-Assistant.git
+
 cd AI-Gym-Fitness-Assistant
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
