@@ -66,7 +66,7 @@ AI-Gym-Fitness-Assistant/
 ### 1. Clone & create a virtual environment
 
 ```bash
-git clone https://github.com/Prashant-kamagond/AI-Gym-Fitness-Assistant.git
+git clone https://github.com/suresh3234/AI-Gym-Fitness-assistent.git
 cd AI-Gym-Fitness-Assistant
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
